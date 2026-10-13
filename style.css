@@ -202,8 +202,8 @@ article p {
 }
 
 .signup-form input {
-  flex: 1;
-  min-width: 0;
+  /* flex: 1; */
+  /* min-width: 0; */
   padding: 12px 10px;
   border: 0;
   border-bottom: 2px solid #725f5c;
